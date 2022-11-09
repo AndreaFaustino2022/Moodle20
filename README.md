@@ -2,4 +2,4 @@
 
 LA ESTUDIANTE DE LA UNIVERSIDAD NACIONAL DE TRUJILLO LES DA LA BIENVENIDA A ESTE SITIO WEB
 
-LINK DE LA PÁGINA https://andreafaustino2022.github.io/Modle20/
+LINK DE LA PÁGINA https://andreafaustino2022.github.io/Moodle20/
